@@ -1,22 +1,20 @@
 # Sr.minhaeiro
 
  A new Flutter project based on the code proz academy proposal for a final project, by group 1 class T3.
+ 
+ ### Topic: Financial App
 
 # floating thoughts
 
 - Focus on achieving financial dreams
 
-- Focus on spending control 
+- Tips for spending control 
 
-- Help with personal or family savings
+- extract for entries and exits
 
-- stimulus to save, achieve your dream (friends or global ranking, based on the amount to save and deadline)
 
-- Variable goals according to unforeseen events
+<img src="https://user-images.githubusercontent.com/84046095/228074719-d5edd6eb-23b1-40bf-961b-56d78ad97839.jpg" width="250" height="500">
 
-- subscription service (Free account and premium account)
-
-- Savings charts for dreams and charts for fixed and variable income costs
 
 ## Getting Started
 
